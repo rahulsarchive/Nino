@@ -5,6 +5,8 @@ A Small format High performance Metal Milling machine with Stepper Servos, made 
 
 ![Niño CNC](Images/6.png)
 
+![Niño CNC](Images/jog.mp4)
+
 ![Niño CNC](Images/02.jpeg)
 
 ![Niño CNC](Images/2.jpeg)
