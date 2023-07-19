@@ -1,8 +1,8 @@
 # El Niño
 
-This project is done as part of [Openlab Started Kit](https://www.inmachines.net/open-lab-starter-kit) in collaboration with [Fab City](https://www.fabcity.hamburg/de/) Hamburg at [Inmachines Ingrassia GmbH](https://www.inmachines.net/)
+This Machine is a prototype of the Small format mill in the OLSK project. It is done as part of [Openlab Started Kit](https://www.inmachines.net/open-lab-starter-kit) in collaboration with [Fab City](https://www.fabcity.hamburg/de/) Hamburg at [Inmachines Ingrassia GmbH](https://www.inmachines.net/)
 
-A Small format High performance Metal Milling machine with Stepper Servos, made from CNC machined Aluminum.
+A Small format High performance Metal Milling machine with Stepper Servos, made from CNC machined Aluminum. With integrated wiring and option for ATC spindle. Controlled by Grbl HAL Teensy controller.
 
 ![Niño CNC](Images/01.jpg)
 
